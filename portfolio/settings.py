@@ -131,4 +131,4 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 
-CSRF_TRUSTED_ORIGINS = ['https://web-production-7c9a.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://web-production-5c770.up.railway.app']
